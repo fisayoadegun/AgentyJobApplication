@@ -7,12 +7,12 @@ Create a Resume and get the Resume with POST and Get
 
 Create example with POST method from PostMan
 
-![Resume Post](CreateResume.JPG)
+![Resume Post](CreateResume.Jpg)
 
 Get Resume Data using GET from POSTMAN
 
-![RGet Get](GetResume.JPG)
+![RGet Get](GetResume.Jpg)
 
 MongoDB DataBase 
 
-![MongoDataBase](MongoDb.JPG)
+![MongoDataBase](MongoDb.Jpg)
