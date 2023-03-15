@@ -15,4 +15,4 @@ Get Resume Data using GET from POSTMAN
 
 MongoDB DataBase 
 
-![MongoDataBase](MongoDb.Jpg)
+![image](https://user-images.githubusercontent.com/66269634/225374669-4b919fc0-06f1-4b56-a7a9-e3898896e677.png)
