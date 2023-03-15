@@ -11,7 +11,7 @@ Create example with POST method from PostMan
 
 Get Resume Data using GET from POSTMAN
 
-![ResumeGet](GetResume.Jpg)
+![image](https://user-images.githubusercontent.com/66269634/225374509-0aed1493-5e46-4cca-bba7-6a7987ede626.png)
 
 MongoDB DataBase 
 
