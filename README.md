@@ -7,11 +7,11 @@ Create a Resume and get the Resume with POST and Get
 
 Create example with POST method from PostMan
 
-![Resume Create](CreateResume.Jpg)
+![ResumeCreate](CreateResume.Jpg)
 
 Get Resume Data using GET from POSTMAN
 
-![RGet Create](GetResume.Jpg)
+![ResumeGet](GetResume.Jpg)
 
 MongoDB DataBase 
 
